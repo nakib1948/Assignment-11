@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Getting Started with Web Development",
+      "content": "In this blog post, we'll dive into the basics of web development. We'll cover HTML, CSS, and JavaScript, and how they work together to create stunning websites.",
+      "date": "2023-08-01",
+      "image": "https://i.ibb.co/bRFdyyH/img1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Art of Digital Photography",
+      "content": "Explore the world of digital photography with us. Learn about composition, lighting, and post-processing techniques that will help you capture breathtaking moments.",
+      "date": "2023-08-05",
+      "image": "https://i.ibb.co/qWDFdWV/img2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cooking Adventures: Exploring International Cuisine",
+      "content": "Embark on a culinary journey with us as we explore the flavors and techniques behind various international dishes. From Italian pasta to Indian curries, get ready to tantalize your taste buds.",
+      "date": "2023-08-10",
+      "image": "https://i.ibb.co/sQCND4T/img3.jpg"
+    }
+  ]
+  
